@@ -1,0 +1,14 @@
+{
+    "admin": {
+        "password": "admin",
+        "is_admin": true
+    },
+    "tamil": {
+        "password": "123",
+        "is_admin": false
+    },
+    "tamil123": {
+        "password": "22",
+        "is_admin": false
+    }
+}

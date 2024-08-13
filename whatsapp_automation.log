@@ -1,0 +1,250 @@
+2024-06-06 15:07:32,150 - INFO - ====== WebDriver manager ======
+2024-06-06 15:07:33,072 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 15:07:33,135 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 15:07:33,197 - INFO - Driver [C:\Users\tamil\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-06-06 15:08:40,032 - ERROR - Failed to send message to giri (8526119660): Message: 
+Stacktrace:
+	GetHandleVerifier [0x00ABB8E3+45827]
+	(No symbol) [0x00A4DCC4]
+	(No symbol) [0x0094150F]
+	(No symbol) [0x009820BC]
+	(No symbol) [0x0098216B]
+	(No symbol) [0x009BE0F2]
+	(No symbol) [0x009A2E44]
+	(No symbol) [0x009BC034]
+	(No symbol) [0x009A2B96]
+	(No symbol) [0x00976998]
+	(No symbol) [0x0097751D]
+	GetHandleVerifier [0x00D74513+2899763]
+	GetHandleVerifier [0x00DC793D+3240797]
+	GetHandleVerifier [0x00B413B4+593364]
+	GetHandleVerifier [0x00B482DC+621820]
+	(No symbol) [0x00A570A4]
+	(No symbol) [0x00A537A8]
+	(No symbol) [0x00A53947]
+	(No symbol) [0x00A459FE]
+	BaseThreadInitThunk [0x75A27BA9+25]
+	RtlInitializeExceptionChain [0x779DBE3B+107]
+	RtlClearBits [0x779DBDBF+191]
+
+2024-06-06 15:09:11,182 - ERROR - Failed to send message to balaji (6383579334): Message: 
+Stacktrace:
+	GetHandleVerifier [0x00ABB8E3+45827]
+	(No symbol) [0x00A4DCC4]
+	(No symbol) [0x0094150F]
+	(No symbol) [0x009820BC]
+	(No symbol) [0x0098216B]
+	(No symbol) [0x009BE0F2]
+	(No symbol) [0x009A2E44]
+	(No symbol) [0x009BC034]
+	(No symbol) [0x009A2B96]
+	(No symbol) [0x00976998]
+	(No symbol) [0x0097751D]
+	GetHandleVerifier [0x00D74513+2899763]
+	GetHandleVerifier [0x00DC793D+3240797]
+	GetHandleVerifier [0x00B413B4+593364]
+	GetHandleVerifier [0x00B482DC+621820]
+	(No symbol) [0x00A570A4]
+	(No symbol) [0x00A537A8]
+	(No symbol) [0x00A53947]
+	(No symbol) [0x00A459FE]
+	BaseThreadInitThunk [0x75A27BA9+25]
+	RtlInitializeExceptionChain [0x779DBE3B+107]
+	RtlClearBits [0x779DBDBF+191]
+
+2024-06-06 15:11:17,415 - INFO - ====== WebDriver manager ======
+2024-06-06 15:11:18,338 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 15:11:18,400 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 15:11:18,463 - INFO - Driver [C:\Users\tamil\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-06-06 15:17:32,982 - INFO - ====== WebDriver manager ======
+2024-06-06 15:17:33,878 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 15:17:33,956 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 15:17:34,003 - INFO - Driver [C:\Users\tamil\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-06-06 15:22:06,819 - INFO - ====== WebDriver manager ======
+2024-06-06 15:22:07,664 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 15:22:07,726 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 15:22:07,789 - INFO - Driver [C:\Users\tamil\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-06-06 15:23:22,419 - INFO - ====== WebDriver manager ======
+2024-06-06 15:23:23,258 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 15:23:23,321 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 15:23:23,383 - INFO - Driver [C:\Users\tamil\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-06-07 11:00:21,732 - INFO - ====== WebDriver manager ======
+2024-06-07 11:00:23,357 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 11:00:23,466 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 11:00:23,513 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 11:00:23,654 - INFO - WebDriver version 125.0.6422.141 selected
+2024-06-07 11:00:23,654 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.141/win32/chromedriver-win32.zip
+2024-06-07 11:00:23,669 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.141/win32/chromedriver-win32.zip
+2024-06-07 11:00:23,779 - INFO - Driver downloading response is 200
+2024-06-07 11:00:24,138 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 11:00:24,279 - INFO - Driver has been saved in cache [C:\Users\tamil\.wdm\drivers\chromedriver\win64\125.0.6422.141]
+2024-06-07 11:01:25,226 - ERROR - Failed to send message to Balaji (6383579334): Message: 
+Stacktrace:
+	GetHandleVerifier [0x004EB8E3+45827]
+	(No symbol) [0x0047DCC4]
+	(No symbol) [0x0037150F]
+	(No symbol) [0x003B20BC]
+	(No symbol) [0x003B216B]
+	(No symbol) [0x003EE0F2]
+	(No symbol) [0x003D2E44]
+	(No symbol) [0x003EC034]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003A6998]
+	(No symbol) [0x003A751D]
+	GetHandleVerifier [0x007A4513+2899763]
+	GetHandleVerifier [0x007F793D+3240797]
+	GetHandleVerifier [0x005713B4+593364]
+	GetHandleVerifier [0x005782DC+621820]
+	(No symbol) [0x004870A4]
+	(No symbol) [0x004837A8]
+	(No symbol) [0x00483947]
+	(No symbol) [0x004759FE]
+	BaseThreadInitThunk [0x75A27BA9+25]
+	RtlInitializeExceptionChain [0x779DBE3B+107]
+	RtlClearBits [0x779DBDBF+191]
+
+2024-06-07 11:01:45,990 - ERROR - Failed to send message to Giri (8526119660): Message: 
+Stacktrace:
+	GetHandleVerifier [0x004EB8E3+45827]
+	(No symbol) [0x0047DCC4]
+	(No symbol) [0x0037150F]
+	(No symbol) [0x003B20BC]
+	(No symbol) [0x003B216B]
+	(No symbol) [0x003EE0F2]
+	(No symbol) [0x003D2E44]
+	(No symbol) [0x003EC034]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003A6998]
+	(No symbol) [0x003A751D]
+	GetHandleVerifier [0x007A4513+2899763]
+	GetHandleVerifier [0x007F793D+3240797]
+	GetHandleVerifier [0x005713B4+593364]
+	GetHandleVerifier [0x005782DC+621820]
+	(No symbol) [0x004870A4]
+	(No symbol) [0x004837A8]
+	(No symbol) [0x00483947]
+	(No symbol) [0x004759FE]
+	BaseThreadInitThunk [0x75A27BA9+25]
+	RtlInitializeExceptionChain [0x779DBE3B+107]
+	RtlClearBits [0x779DBDBF+191]
+
+2024-06-07 11:02:57,577 - INFO - ====== WebDriver manager ======
+2024-06-07 11:02:58,905 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 11:02:58,983 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 11:02:59,030 - INFO - Driver [C:\Users\tamil\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-06-07 11:03:47,410 - ERROR - Failed to send message to Balaji (6383579334): Message: 
+Stacktrace:
+	GetHandleVerifier [0x004EB8E3+45827]
+	(No symbol) [0x0047DCC4]
+	(No symbol) [0x0037150F]
+	(No symbol) [0x003B20BC]
+	(No symbol) [0x003B216B]
+	(No symbol) [0x003EE0F2]
+	(No symbol) [0x003D2E44]
+	(No symbol) [0x003EC034]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003A6998]
+	(No symbol) [0x003A751D]
+	GetHandleVerifier [0x007A4513+2899763]
+	GetHandleVerifier [0x007F793D+3240797]
+	GetHandleVerifier [0x005713B4+593364]
+	GetHandleVerifier [0x005782DC+621820]
+	(No symbol) [0x004870A4]
+	(No symbol) [0x004837A8]
+	(No symbol) [0x00483947]
+	(No symbol) [0x004759FE]
+	BaseThreadInitThunk [0x75A27BA9+25]
+	RtlInitializeExceptionChain [0x779DBE3B+107]
+	RtlClearBits [0x779DBDBF+191]
+
+2024-06-07 11:04:08,474 - ERROR - Failed to send message to Giri (8526119660): Message: 
+Stacktrace:
+	GetHandleVerifier [0x004EB8E3+45827]
+	(No symbol) [0x0047DCC4]
+	(No symbol) [0x0037150F]
+	(No symbol) [0x003B20BC]
+	(No symbol) [0x003B216B]
+	(No symbol) [0x003EE0F2]
+	(No symbol) [0x003D2E44]
+	(No symbol) [0x003EC034]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003A6998]
+	(No symbol) [0x003A751D]
+	GetHandleVerifier [0x007A4513+2899763]
+	GetHandleVerifier [0x007F793D+3240797]
+	GetHandleVerifier [0x005713B4+593364]
+	GetHandleVerifier [0x005782DC+621820]
+	(No symbol) [0x004870A4]
+	(No symbol) [0x004837A8]
+	(No symbol) [0x00483947]
+	(No symbol) [0x004759FE]
+	BaseThreadInitThunk [0x75A27BA9+25]
+	RtlInitializeExceptionChain [0x779DBE3B+107]
+	RtlClearBits [0x779DBDBF+191]
+
+2024-06-07 11:05:01,993 - INFO - ====== WebDriver manager ======
+2024-06-07 11:05:03,233 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 11:05:03,296 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 11:05:03,343 - INFO - Driver [C:\Users\tamil\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-06-07 11:05:54,571 - ERROR - Failed to send message to Balaji (6383579334): Message: 
+Stacktrace:
+	GetHandleVerifier [0x004EB8E3+45827]
+	(No symbol) [0x0047DCC4]
+	(No symbol) [0x0037150F]
+	(No symbol) [0x003B20BC]
+	(No symbol) [0x003B216B]
+	(No symbol) [0x003EE0F2]
+	(No symbol) [0x003D2E44]
+	(No symbol) [0x003EC034]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003A6998]
+	(No symbol) [0x003A751D]
+	GetHandleVerifier [0x007A4513+2899763]
+	GetHandleVerifier [0x007F793D+3240797]
+	GetHandleVerifier [0x005713B4+593364]
+	GetHandleVerifier [0x005782DC+621820]
+	(No symbol) [0x004870A4]
+	(No symbol) [0x004837A8]
+	(No symbol) [0x00483947]
+	(No symbol) [0x004759FE]
+	BaseThreadInitThunk [0x75A27BA9+25]
+	RtlInitializeExceptionChain [0x779DBE3B+107]
+	RtlClearBits [0x779DBDBF+191]
+
+2024-06-07 11:06:17,464 - ERROR - Failed to send message to Giri (8526119660): Message: 
+Stacktrace:
+	GetHandleVerifier [0x004EB8E3+45827]
+	(No symbol) [0x0047DCC4]
+	(No symbol) [0x0037150F]
+	(No symbol) [0x003B20BC]
+	(No symbol) [0x003B216B]
+	(No symbol) [0x003EE0F2]
+	(No symbol) [0x003D2E44]
+	(No symbol) [0x003EC034]
+	(No symbol) [0x003D2B96]
+	(No symbol) [0x003A6998]
+	(No symbol) [0x003A751D]
+	GetHandleVerifier [0x007A4513+2899763]
+	GetHandleVerifier [0x007F793D+3240797]
+	GetHandleVerifier [0x005713B4+593364]
+	GetHandleVerifier [0x005782DC+621820]
+	(No symbol) [0x004870A4]
+	(No symbol) [0x004837A8]
+	(No symbol) [0x00483947]
+	(No symbol) [0x004759FE]
+	BaseThreadInitThunk [0x75A27BA9+25]
+	RtlInitializeExceptionChain [0x779DBE3B+107]
+	RtlClearBits [0x779DBDBF+191]
+
+2024-06-07 11:12:31,095 - INFO - ====== WebDriver manager ======
+2024-06-07 11:12:32,299 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 11:12:32,565 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 11:12:32,674 - INFO - Driver [C:\Users\tamil\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-06-07 11:13:53,583 - INFO - ====== WebDriver manager ======
+2024-06-07 11:13:54,833 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 11:13:55,006 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 11:13:55,131 - INFO - Driver [C:\Users\tamil\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-06-07 11:50:24,095 - INFO - ====== WebDriver manager ======
+2024-06-07 11:50:25,240 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 11:50:25,319 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 11:50:25,412 - INFO - Driver [C:\Users\tamil\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
